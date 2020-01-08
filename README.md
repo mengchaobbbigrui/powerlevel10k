@@ -1,5 +1,4 @@
 # Powerlevel10k
-
 Powerlevel10k is a theme for ZSH. It's fast, flexible and easy to install and configure.
 
 Powerlevel10k can be used as a [fast](#is-it-really-fast) drop-in replacement for
